@@ -1,4 +1,4 @@
-# Dataton. Team Pawfull 🐾
+# Datathon. Team Pawfull 🐾
 
 ## Table of contents 
 [1. Our team](https://github.com/ekaterinatao/datatone_Pawfull#team)   
@@ -16,7 +16,7 @@
 Alexander Nesterov - data analyst  
 
 ## Description
-Here is our team project for datatone. We preprocessed several datasets and create our own for further analysis. Different datasets contain information related to mortality, air pollution, smoking rate and happiness level.   
+Here is our team project for datathon. We preprocessed several datasets and create our own for further analysis. Different datasets contain information related to mortality, air pollution, smoking rate and happiness level.   
 
 ## Aim
 To describe relationship between air pollution, smoking rate, happiness level of people and mortality rate caused by respiratory diseases.   
